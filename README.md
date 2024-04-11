@@ -1,1 +1,2 @@
-# Video-Games-Sales-Analysis
+# CAPSTONE PROJECT 2
+# VIDEO GAMES SALES ANALYSIS
